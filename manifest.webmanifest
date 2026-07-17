@@ -1,0 +1,23 @@
+{
+  "name": "Leicon Electrical and Controls Eningeering",
+  "short_name": "Leicon Electrical and Controls Eningeering",
+  "description": "Leicon Electrical and Controls Engineering(LEC) is a subsidiary of Leicon Pty Ltd specialising in electrical and controls design, switchboard manufacturing, controls / SCADA works and electrical installation. Proudly WA-owned, based in Balcatta, Perth.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#001A70",
+  "theme_color": "#001A70",
+  "icons": [
+    {
+      "src": "images/favicon/web-app-manifest-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "images/favicon/web-app-manifest-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
