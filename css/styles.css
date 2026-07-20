@@ -1263,7 +1263,15 @@ nav ul li a:hover,nav ul li a.active {
   padding: 20px;
   border-radius: var(--radius-sm);
   box-shadow: var(--shadow);
+  border-top: 4px solid var(--light-blue, #4A90E2);
+  box-shadow: 0 10px 30px rgba(0, 26, 112, 0.08);
+  transition: transform .3s ease, box-shadow .3s ease;
   flex: 1;
+}
+
+.fab-stat:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 20px 40px rgba(0, 26, 112, 0.15);
 }
 
 .fab-stat .number {
