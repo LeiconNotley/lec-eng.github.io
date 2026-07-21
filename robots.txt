@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://lecengineering.com.au/sitemap.xml
+Sitemap: https://lec-eng.com.au/sitemap.xml
