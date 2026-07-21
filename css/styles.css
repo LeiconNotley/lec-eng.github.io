@@ -2936,7 +2936,7 @@ footer {
     contain: layout paint;
   }
   
-  .about-image,.fab-image,.lec-image {
+  .about-image, .fab-media {
     display: none;
   }
   
